@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Nara Guimarães
 
+<div align="center">
+  <img src="octocat-naraguimma.png" alt="Octocat Nara Guimma" width="300" />
+</div>
+
 I'm a passionate **Data Engineer** who thrives on transforming raw data into actionable insights. I love building scalable systems and leveraging data to solve complex problems.
 
 
