@@ -49,7 +49,10 @@ I'm a passionate **Data Engineer** who thrives on transforming raw data into act
 
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
- 
+<br />
+<br />
+
+**Statistics**
 
 | <a href="https://github.com/naraguimma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=naraguimma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NaraGuimma's github stats" /></a> | <a href="https://github.com/naraguimma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naraguimma&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -70,7 +73,10 @@ I'm a passionate **Data Engineer** who thrives on transforming raw data into act
 <br />
 
 <a href="https://www.linkedin.com/in/nara-guimaraes/">
-  <img align="right" alt="Nara Guimaraes | LinkedIn" width="21px" src="https://github.com/user-attachments/assets/83134688-8264-43e4-9a61-8c947a8b21be" />
+  <img align="right" alt="Nara Guimaraes | LinkedIn" width="40px" src="https://github.com/user-attachments/assets/83134688-8264-43e4-9a61-8c947a8b21be" style="vertical-align: bottom; margin-left: 10px;" />
+</a>
+<a href="https://medium.com/@nara.guimaraes">
+  <img align="right" alt="Nara Guimaraes | Medium" width="80px" src="https://github.com/user-attachments/assets/5216a640-34dd-4363-bec7-2ff9ee6ca15c" style="vertical-align: bottom;" />
 </a>
 
 
