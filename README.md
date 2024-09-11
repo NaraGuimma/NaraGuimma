@@ -22,29 +22,29 @@ I'm a passionate **Data Engineer** who thrives on transforming raw data into act
 # Tech Stack
 
 ### Programming Languages
-<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="background-color:white; border-radius:50%;"/>
-<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/71708626/110930288-ae775d00-8307-11eb-9267-7d9c58ab4df9.png" style="background-color:white; border-radius:50%;"/>
+<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="background-color:white; border-radius:50%;" />
+<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/71708626/110930288-ae775d00-8307-11eb-9267-7d9c58ab4df9.png" style="background-color:white; border-radius:50%;" />
 <br/><br/>
 
 ### Cloud Platforms
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" style="background-color:white; border-radius:50%;"/>
-<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" style="background-color:white; border-radius:50%;"/>
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" style="background-color:white; border-radius:50%;" />
+<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" style="background-color:white; border-radius:50%;" />
 <br/><br/>
 
 ### Data Analysis & Visualization
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
-<img align="left" alt="Sklearn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
-<img align="left" alt="PySpark" width="45px" src="https://miro.medium.com/max/1400/0*bqHf2WCDUlm7_hU3.png" />
-<img align="left" alt="Koalas" width="30px" src="https://raw.githubusercontent.com/databricks/koalas/master/icons/koalas-logo.png" />
-<img align="left" alt="Matplotlib" width="26px" src="https://w7.pngwing.com/pngs/215/492/png-transparent-matplotlib-python-computer-software-introduction-to-algorithms-angle-symmetry-plot.png" />
-<img align="left" alt="Seaborn" width="26px" src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" />
-<img align="left" alt="Power BI" width="26px" src="https://user-images.githubusercontent.com/71708626/110930907-702e6d80-8308-11eb-8b03-9c4ad447bcf8.png" />
-<img align="left" alt="Tableau" width="26px" src="https://user-images.githubusercontent.com/71708626/110930621-19c12f00-8308-11eb-9319-93b0a1d1a6fb.png" />
+<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" style="background-color:white; border-radius:50%;" />
+<img align="left" alt="Sklearn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" style="background-color:white; border-radius:50%;" />
+<img align="left" alt="PySpark" width="45px" src="https://miro.medium.com/max/1400/0*bqHf2WCDUlm7_hU3.png" style="background-color:white; border-radius:50%;" />
+<img align="left" alt="Koalas" width="30px" src="https://raw.githubusercontent.com/databricks/koalas/master/icons/koalas-logo.png" style="background-color:white; border-radius:50%;" />
+<img align="left" alt="Matplotlib" width="26px" src="https://w7.pngwing.com/pngs/215/492/png-transparent-matplotlib-python-computer-software-introduction-to-algorithms-angle-symmetry-plot.png" style="background-color:white; border-radius:50%;" />
+<img align="left" alt="Seaborn" width="26px" src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" style="background-color:white; border-radius:50%;" />
+<img align="left" alt="Power BI" width="26px" src="https://user-images.githubusercontent.com/71708626/110930907-702e6d80-8308-11eb-8b03-9c4ad447bcf8.png" style="background-color:white; border-radius:50%;" />
+<img align="left" alt="Tableau" width="26px" src="https://user-images.githubusercontent.com/71708626/110930621-19c12f00-8308-11eb-9319-93b0a1d1a6fb.png" style="background-color:white; border-radius:50%;" />
 <br/><br/>
 
 ### Version Control & Collaboration
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="background-color:white; border-radius:50%;" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="background-color:white; border-radius:50%;" />
 <br/><br/>
 
 <br />
