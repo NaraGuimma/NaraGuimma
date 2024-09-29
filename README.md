@@ -6,11 +6,6 @@
 
 I'm a passionate **Data Engineer** who thrives on transforming raw data into actionable insights. I love building scalable systems and leveraging data to solve complex problems.
 
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/eb9ca764-dbf9-456a-af68-039568b7354d" alt="Data and Technology" width="500"/>
-</div>
-
 # About Me
 
 - 💼 **Data Engineer** | I specialize in building robust data pipelines and architecting cloud solutions.
