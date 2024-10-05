@@ -74,7 +74,7 @@ I'm a passionate **Data Engineer** who thrives on transforming raw data into act
 
 # Statistics
 
-| ![NaraGuimma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naraguimma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naraguimma&layout=compact&theme=buefy&hide_border=true) |
+| ![NaraGuimma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naraguimma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naraguimma&layout=compact&theme=buefy&hide_border=true) |
 | ------------- | ------------- |
 
 
