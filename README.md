@@ -8,7 +8,7 @@ I'm a passionate **Data Engineer** who thrives on transforming raw data into act
 
 # About Me
 
-- 💼 **Data Engineer** | I specialize in building robust data pipelines and architecting cloud solutions.
+- 💼 **Data Engineer** | I'm specialized in building robust data pipelines and architecting cloud solutions.
 - ❤️ I love working with **Python** and **SQL**, and exploring cutting-edge technologies to push the boundaries of data engineering.
 - 🚀 Currently diving deep into **type-level programming** and experimenting with **cloud-native data architectures**.
 - 💬 Ask me about **data engineering, cloud computing**, or **anything else** [here](https://github.com/NaraGuimma/NaraGuimma/issues).
